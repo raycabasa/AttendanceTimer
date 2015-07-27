@@ -1,0 +1,40 @@
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\bin\Debug\AttendanceTimer.exe
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\bin\Debug\AttendanceTimer.pdb
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\Window1.baml
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\Window1.g.cs
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\App.g.cs
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\AttendanceTimer_MarkupCompile.cache
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\AttendanceTimer.g.resources
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\AttendanceTimer.Properties.Resources.resources
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\AttendanceTimer.csproj.GenerateResource.Cache
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\AttendanceTimer.exe
+D:\Users\rcabasa\AppData\Local\Temporary Projects\AttendanceTimer\obj\Debug\AttendanceTimer.pdb
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.exe
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.pdb
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Debug\AttendanceTimer.exe
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Debug\AttendanceTimer.pdb
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\ResolveAssemblyReference.cache
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\Window1.baml
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\Window1.g.cs
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\App.g.cs
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer_MarkupCompile.cache
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.g.resources
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.Properties.Resources.resources
+D:\iFiles\projects\code\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.csproj.GenerateResource.Cache
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.exe
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.pdb
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Debug\AttendanceTimer.exe
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Debug\AttendanceTimer.pdb
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\ResolveAssemblyReference.cache
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\Window1.baml
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\Window1.g.cs
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\App.g.cs
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer_MarkupCompile.cache
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.g.resources
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.Properties.Resources.resources
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.csproj.GenerateResource.Cache
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Debug\AttendanceTimer.exe.manifest
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Debug\AttendanceTimer.application
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.exe.manifest
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Debug\AttendanceTimer.application

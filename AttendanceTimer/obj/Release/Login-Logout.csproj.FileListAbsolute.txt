@@ -1,0 +1,16 @@
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Release\AttendanceTimer.exe.manifest
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Release\AttendanceTimer.application
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Release\AttendanceTimer.exe
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\bin\Release\AttendanceTimer.pdb
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\ResolveAssemblyReference.cache
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\Window1.baml
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\Window1.g.cs
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\App.g.cs
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\AttendanceTimer_MarkupCompile.cache
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\AttendanceTimer.g.resources
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\AttendanceTimer.Properties.Resources.resources
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\Login-Logout.csproj.GenerateResource.Cache
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\AttendanceTimer.exe.manifest
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\AttendanceTimer.application
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\AttendanceTimer.exe
+E:\codes\attendance_timer\AttendanceTimer\AttendanceTimer\obj\Release\AttendanceTimer.pdb
