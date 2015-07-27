@@ -30,6 +30,7 @@ namespace AttendanceTimer
         DateTime logout_time;
         DispatcherTimer timer;
         const double working_hours = 9.6;
+	const double minimum_login_hour = 6.0;
         const double maximum_login_hour = 10.0;
 
         public Window1()
@@ -56,7 +57,11 @@ namespace AttendanceTimer
                     {
                         double logout_hour = 0.0;
                         double login_hour = log_created.TimeOfDay.TotalHours;
-                        if (login_hour > maximum_login_hour)
+                        if (login_hour < minimum_login_hour)
+                        {
+                            logout_hour = minimum_login_hour + working_hours;
+                        } 
+                        else if (login_hour > maximum_login_hour)
                         {
                             logout_hour = maximum_login_hour + working_hours;
                         }
